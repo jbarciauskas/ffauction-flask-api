@@ -30,8 +30,8 @@ DEFAULTS = {
         "passYds": .04,
         "passTds": 4,
         "twoPts": 2,
-        "sacks": -.5,  # Yahoo default: 0
-        "passInt": -2,  # Yahoo default: 1
+        "sacks": 0,  # Yahoo default: 0
+        "passInt": -1,  # Yahoo default: -1
         "rushAtt": 0,
         "rushYds": .1,
         "rushTds": 6,
